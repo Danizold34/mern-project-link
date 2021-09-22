@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri" : "mongodb+srv://Danizold34:trove228@cluster0.6zeu3.mongodb.net/mernretryWrites=true&w=majority",
+    "jwtSecret" : "Danizoldmern",
+    "baseUrl": "http://localhost:5000"
+}
